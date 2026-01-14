@@ -1,0 +1,21 @@
+# Run Locally
+  pip install -r requirements.txt
+  streamlit run app.py
+  
+Indian-Air-Quality-Monitoring-and-Forecasting/
+│
+├── app.py 
+├── model.pkl
+├── requirements.txt
+├── data.csv
+├── Indian_Air_Quality_Monitoring_Forecasting.ipynb
+└── README.md
+
+🛠 Technologies Used
+
+Python
+Pandas, NumPy
+Scikit-learn
+Statsmodels (ARIMA)
+Matplotlib
+Streamlit
